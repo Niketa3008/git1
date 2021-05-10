@@ -1,3 +1,0 @@
-Hello!
-This is second file in git.
-
