@@ -1,3 +1,1 @@
-Hello!
-This is second file in git.
-
+This is to check git pull and git merge functionality.
